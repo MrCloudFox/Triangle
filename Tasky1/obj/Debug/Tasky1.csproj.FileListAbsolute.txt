@@ -1,0 +1,54 @@
+c:\users\alcloudfox\documents\visual studio 2015\Projects\Tasky1\Tasky1\bin\Debug\Tasky1.exe.config
+c:\users\alcloudfox\documents\visual studio 2015\Projects\Tasky1\Tasky1\bin\Debug\Tasky1.exe
+c:\users\alcloudfox\documents\visual studio 2015\Projects\Tasky1\Tasky1\bin\Debug\Tasky1.pdb
+c:\users\alcloudfox\documents\visual studio 2015\Projects\Tasky1\Tasky1\obj\Debug\Tasky1.csprojResolveAssemblyReference.cache
+c:\users\alcloudfox\documents\visual studio 2015\Projects\Tasky1\Tasky1\obj\Debug\Tasky1.exe
+c:\users\alcloudfox\documents\visual studio 2015\Projects\Tasky1\Tasky1\obj\Debug\Tasky1.pdb
+G:\Tasky1\Tasky1\bin\Debug\Tasky1.exe.config
+G:\Tasky1\Tasky1\obj\Debug\Tasky1.exe
+G:\Tasky1\Tasky1\obj\Debug\Tasky1.pdb
+C:\Users\AlCloudFox\Desktop\Tasky1\Tasky1\bin\Debug\Tasky1.exe.config
+C:\Users\AlCloudFox\Desktop\Tasky1\Tasky1\obj\Debug\Tasky1.exe
+C:\Users\AlCloudFox\Desktop\Tasky1\Tasky1\obj\Debug\Tasky1.pdb
+C:\Users\AlCloudFox\Desktop\Tasky1\Tasky1\bin\Debug\Tasky1.exe
+C:\Users\AlCloudFox\Desktop\Tasky1\Tasky1\bin\Debug\Tasky1.pdb
+C:\Users\AlCloudFox\Desktop\Tasky1\Tasky1\obj\Debug\Tasky1.csprojResolveAssemblyReference.cache
+C:\Users\AlCloudFox\Desktop\Прожки\Tasky1\Tasky1\bin\Debug\Tasky1.exe.config
+C:\Users\AlCloudFox\Desktop\Прожки\Tasky1\Tasky1\obj\Debug\Tasky1.exe
+C:\Users\AlCloudFox\Desktop\Прожки\Tasky1\Tasky1\obj\Debug\Tasky1.pdb
+C:\Users\AlCloudFox\Desktop\Прожки\Tasky1 — копия (2)\Tasky1\bin\Debug\Tasky1.exe.config
+C:\Users\AlCloudFox\Desktop\Прожки\Tasky1 — копия (2)\Tasky1\obj\Debug\Tasky1.exe
+C:\Users\AlCloudFox\Desktop\Прожки\Tasky1 — копия (2)\Tasky1\obj\Debug\Tasky1.pdb
+C:\Users\AlCloudFox\Desktop\Прожки\Tasky1 — копия (2)\Tasky1\bin\Debug\Tasky1.exe
+C:\Users\AlCloudFox\Desktop\Прожки\Tasky1 — копия (2)\Tasky1\bin\Debug\Tasky1.pdb
+C:\Users\AlCloudFox\Desktop\Прожки\Tasky1 — копия (2)\Tasky1\obj\Debug\Tasky1.csprojResolveAssemblyReference.cache
+C:\Users\AlCloudFox\Desktop\Прожки\Tasky\Tasky1\bin\Debug\Tasky1.exe.config
+C:\Users\AlCloudFox\Desktop\Прожки\Tasky\Tasky1\obj\Debug\Tasky1.exe
+C:\Users\AlCloudFox\Desktop\Прожки\Tasky\Tasky1\obj\Debug\Tasky1.pdb
+C:\Users\AlCloudFox\Desktop\Прожки\Tasky\Tasky1\bin\Debug\Tasky1.exe
+C:\Users\AlCloudFox\Desktop\Прожки\Tasky\Tasky1\bin\Debug\Tasky1.pdb
+C:\Users\AlCloudFox\Desktop\Прожки\Tasky\Tasky1\obj\Debug\Tasky1.csprojResolveAssemblyReference.cache
+C:\Users\AlCloudFox\Desktop\Tasky\Tasky1\bin\Debug\Tasky1.exe.config
+C:\Users\AlCloudFox\Desktop\Tasky\Tasky1\obj\Debug\Tasky1.exe
+C:\Users\AlCloudFox\Desktop\Tasky\Tasky1\obj\Debug\Tasky1.pdb
+C:\Users\AlCloudFox\Desktop\Tasky\Tasky1\bin\Debug\Tasky1.exe
+C:\Users\AlCloudFox\Desktop\Tasky\Tasky1\bin\Debug\Tasky1.pdb
+C:\Users\AlCloudFox\Desktop\Tasky\Tasky1\obj\Debug\Tasky1.csprojResolveAssemblyReference.cache
+C:\Users\AlCloudFox\Desktop\Tasky — копия\Tasky1\bin\Debug\Tasky1.exe.config
+C:\Users\AlCloudFox\Desktop\Tasky — копия\Tasky1\obj\Debug\Tasky1.exe
+C:\Users\AlCloudFox\Desktop\Tasky — копия\Tasky1\obj\Debug\Tasky1.pdb
+C:\Users\AlCloudFox\Desktop\Tasky — копия\Tasky1\bin\Debug\Tasky1.exe
+C:\Users\AlCloudFox\Desktop\Tasky — копия\Tasky1\bin\Debug\Tasky1.pdb
+C:\Users\AlCloudFox\Desktop\Tasky — копия\Tasky1\obj\Debug\Tasky1.csprojResolveAssemblyReference.cache
+C:\Users\AlCloudFox\Desktop\Tasky2\Tasky1\bin\Debug\Tasky1.exe.config
+C:\Users\AlCloudFox\Desktop\Tasky2\Tasky1\obj\Debug\Tasky1.exe
+C:\Users\AlCloudFox\Desktop\Tasky2\Tasky1\obj\Debug\Tasky1.pdb
+C:\Users\AlCloudFox\Desktop\Tasky2\Tasky1\bin\Debug\Tasky1.exe
+C:\Users\AlCloudFox\Desktop\Tasky2\Tasky1\bin\Debug\Tasky1.pdb
+C:\Users\AlCloudFox\Desktop\Tasky2\Tasky1\obj\Debug\Tasky1.csprojResolveAssemblyReference.cache
+C:\Users\AlCloudFox\Desktop\Tasky2 — копия\Tasky1\bin\Debug\Tasky1.exe.config
+C:\Users\AlCloudFox\Desktop\Tasky2 — копия\Tasky1\obj\Debug\Tasky1.exe
+C:\Users\AlCloudFox\Desktop\Tasky2 — копия\Tasky1\obj\Debug\Tasky1.pdb
+C:\Users\AlCloudFox\Desktop\Tasky2 — копия\Tasky1\bin\Debug\Tasky1.exe
+C:\Users\AlCloudFox\Desktop\Tasky2 — копия\Tasky1\bin\Debug\Tasky1.pdb
+C:\Users\AlCloudFox\Desktop\Tasky2 — копия\Tasky1\obj\Debug\Tasky1.csprojResolveAssemblyReference.cache
